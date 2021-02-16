@@ -1,0 +1,12 @@
+  [{
+        "cno" : "101",
+        "cnmae" : "Karya"
+    },
+    {
+        "cno" : "102",
+        "cname" : "Google"
+    },
+    {
+        "cno":"103",
+        "cname":"Amazon"
+    }]
